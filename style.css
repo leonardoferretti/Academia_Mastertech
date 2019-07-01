@@ -1,0 +1,11 @@
+nav{
+    background-color: black;
+}
+
+a{
+    color: white;
+    text-decoration: black;
+    font-size: 16pt;
+    margin: 10pt;
+    padding: 10pt;
+}
